@@ -1,0 +1,14 @@
+{
+  "name": "express-backend",
+  "version": "1.0.0",
+  "description": "Employee management system express backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul kumar, akhilesh singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
